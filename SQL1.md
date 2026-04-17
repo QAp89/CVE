@@ -1,4 +1,4 @@
-# Gym Management System In PHP has an SQL injection vulnerability in functions/functions.php:31-57
+<img width="1610" height="948" alt="image" src="https://github.com/user-attachments/assets/c9d7e7fc-be35-4933-8844-ca2de3dd7ed2" /># Gym Management System In PHP has an SQL injection vulnerability in functions/functions.php:31-57
 
 ## supplier 
 https://code-projects.org/gym-management-system-in-php-with-source-code/
@@ -63,3 +63,4 @@ sqlmap -r 1.txt --level 5 -o --batch -D mygym -T admin --dump
 
 Successfully injected the admin's account and password.
 
+<img width="1610" height="948" alt="image" src="https://github.com/user-attachments/assets/7216ac94-6da3-41fc-bd7a-a5271b489db6" />
